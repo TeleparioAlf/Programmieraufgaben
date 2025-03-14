@@ -3,14 +3,7 @@
 ## 🎯 Ziel
 Implementiere die **Ackermann-Funktion**, eine bekannte rekursive mathematische Funktion, die wie folgt definiert ist:
 
-\[
-A(m, n) =
-\begin{cases} 
-n + 1 & \text{wenn } m = 0 \\
-A(m - 1, 1) & \text{wenn } m > 0 \text{ und } n = 0 \\
-A(m - 1, A(m, n - 1)) & \text{wenn } m > 0 \text{ und } n > 0
-\end{cases}
-\]
+![Ackermann-Funktion](Bilder/Ackermann-Funktion.svg)
 
 ## 📥 Eingabe
 - Zwei nichtnegative ganze Zahlen `m` und `n`.
