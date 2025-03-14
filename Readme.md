@@ -9,5 +9,7 @@ Das Verzeichnis enthält Übungs- bzw. Prüfungsaufgaben für eine Programmier-L
 - **Teamarbeit und Kommunikation**: Einige Aufgaben könnten in Gruppen bearbeitet werden, was die Kommunikations- und Teamfähigkeiten stärkt.
 
 Diese Aufgaben sind ein wesentlicher Bestandteil der Programmierausbildung und tragen maßgeblich zur beruflichen und akademischen Entwicklung der Studierenden bei.
+
 ---
+
 Viel Spaß beim Programmieren! 🚀😊
