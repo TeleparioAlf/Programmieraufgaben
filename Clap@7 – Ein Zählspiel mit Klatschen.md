@@ -30,14 +30,12 @@ C: 12
 A: 13
 B: CLAP  (14 ist durch 7 teilbar)
 C: 15
-A: 16
+A: CLAP  (Quersumme der Zahl ist durch 7 teilbar)
 B: CLAP  (17 enthält die Ziffer 7)
 C: 18
 ```
 
-Falls das Spiel bei `N` beendet wird (inklusive `N`), soll dein Programm die **Gesamtzahl der Klatscher (`CLAP`)** berechnen.
-
----
+Wenn das Spiel bei `N` beendet wird (inklusive `N`), soll dein Programm die **Gesamtzahl der Klatscher (`CLAP`)** berechnen.
 
 ## 📥 Eingabe
 - **Zeile 1:** Eine ganze Zahl `N`, die angibt, bei welcher Zahl das Spiel endet.
@@ -45,12 +43,8 @@ Falls das Spiel bei `N` beendet wird (inklusive `N`), soll dein Programm die **G
 ## 📤 Ausgabe
 - Die Gesamtanzahl der **CLAPS**.
 
----
-
 ## ⚙️ Einschränkungen
 - `1 ≤ N ≤ 3 000 000`
-
----
 
 ## 📌 Beispiel
 
