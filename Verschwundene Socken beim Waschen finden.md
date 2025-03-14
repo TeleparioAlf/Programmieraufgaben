@@ -38,15 +38,15 @@ Nun stehst du vor deiner Waschmaschine und hast sie geleert. Während du die Wä
 ### Eingabe:
 ```
 5
-sock 1 blue
-sock 4 red
-sock 3 red
-sock 1 red
-sock 3 grey
+t-shirt 2 blue
+sock 42 red
+sock 42 red
+short 7 white
+sock 37 grey
 ```
 
 ### Ausgabe:
 ```
 1
-3 grey
+37 grey
 ```
