@@ -24,7 +24,7 @@ Für jede Ticketnummer muss dein Programm `true` ausgeben, wenn es ein Glücksti
 ### 📝 Eingabe:
 ```
 4
-123806
+123006
 111222
 000000
 557766
