@@ -30,10 +30,10 @@ Jedes `X` kann **Teil mehrerer** `+`-Muster sein.
 ### 📝 Eingabe:
 ```
 5 4
-..X..
+...X.
+..XXX
 .XXX.
-..X..
-.XXX.
+..XX.
 ```
 
 ### ✅ Ausgabe:
