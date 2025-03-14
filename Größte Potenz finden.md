@@ -11,9 +11,7 @@ P^M \leq N
 ### Beispiel:
 Wenn `N = 33` und `P = 2`, dann ist die Ausgabe `5`, da:
 
-\[
-2^5 = 32
-\]
+2<sup>5</sup> = 32
 
 die größte Potenz von `2` ist, die `N` nicht überschreitet.
 
