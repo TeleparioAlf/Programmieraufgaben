@@ -1,4 +1,4 @@
-# 🥂 Gläser-Klinken zählen
+# 🥂 Gläser-Klingen zählen
 
 ## 🎯 Ziel
 Beim Abendessen mit Freunden stößt jeder Gast **genau einmal** mit jedem anderen an.  
