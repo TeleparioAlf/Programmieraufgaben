@@ -25,7 +25,7 @@ Für jeden Bereich soll das Programm die **Summe** der Werte im Array für Indiz
 ### Eingabe:
 ```
 4
-2 5 8
+4 2 5 8
 3
 0 3
 1 2
