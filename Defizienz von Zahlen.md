@@ -4,9 +4,7 @@
 Eine **defiziente Zahl** ist eine Zahl, bei der die **Summe ihrer Teiler kleiner ist als das Doppelte der Zahl**.  
 Jede defiziente Zahl hat eine **Defizienz**, die sich folgendermaßen berechnet:
 
-\[
-\text{Defizienz} = (2 \times \text{Zahl}) - \text{Summe der Teiler}
-\]
+Defizienz = (2 * Zahl) - Summe der Teiler
 
 ### 📌 Beispiel:
 Betrachten wir die Zahl `21`:
@@ -27,7 +25,7 @@ Betrachten wir die Zahl `21`:
 
 ## ⚙️ Einschränkungen
 - `N ≤ 170`
-- `0 ≤ A ≤ B ≤ 10 000`
+- `0 ≤ A ≤ B ≤ 10'000`
 
 ## 📌 Beispiel
 
@@ -35,8 +33,8 @@ Betrachten wir die Zahl `21`:
 ```
 4
 1 3
-4 8
-5 10
+5 8
+10 12
 1 10
 ```
 
