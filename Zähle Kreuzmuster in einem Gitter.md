@@ -7,9 +7,9 @@ Dein Programm soll ermitteln, **wie oft** das `X`-Zeichen ein **Plus-Muster (`+`
 Ein **Plus-Muster** besteht aus genau **5** `X`-Zeichen in folgender Anordnung:
 
 ```
- .
+ X
 XXX
- . 
+ X 
 ```
 
 Jedes `X` kann **Teil mehrerer** `+`-Muster sein.
