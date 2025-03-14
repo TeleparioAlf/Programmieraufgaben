@@ -1,4 +1,4 @@
-# Programmieraufgaben
+# 10 Minuten Programmieraufgaben
 
 Das Verzeichnis enthält Übungs- bzw. Prüfungsaufgaben für eine Programmier-Lehrveranstaltung. Diese Aufgaben sind darauf ausgelegt, die Programmierfähigkeiten der Studierenden zu fördern und zu vertiefen. Durch das Lösen dieser Aufgaben können die Studierenden:
 
@@ -9,3 +9,5 @@ Das Verzeichnis enthält Übungs- bzw. Prüfungsaufgaben für eine Programmier-L
 - **Teamarbeit und Kommunikation**: Einige Aufgaben könnten in Gruppen bearbeitet werden, was die Kommunikations- und Teamfähigkeiten stärkt.
 
 Diese Aufgaben sind ein wesentlicher Bestandteil der Programmierausbildung und tragen maßgeblich zur beruflichen und akademischen Entwicklung der Studierenden bei.
+---
+Viel Spaß beim Programmieren! 🚀😊
