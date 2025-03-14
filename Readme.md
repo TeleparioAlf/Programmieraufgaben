@@ -60,10 +60,6 @@ Hier ist ein Markdown-Inhaltsverzeichnis für das Verzeichnis `Programmieraufgab
 - [Überprüfung einer verschlüsselten Nachricht](https://github.com/TeleparioAlf/Programmieraufgaben/blob/main/%C3%9Cberpr%C3%BCfung%20einer%20verschl%C3%BCsselten%20Nachricht.md)
 - [Überprüfung eines Benutzernamens](https://github.com/TeleparioAlf/Programmieraufgaben/blob/main/%C3%9Cberpr%C3%BCfung%20eines%20Benutzernamens.md)
 
-## Bilder
-
-- [Bilder Verzeichnis](https://github.com/TeleparioAlf/Programmieraufgaben/tree/main/Bilder)
-
 ---
 
 Viel Spaß beim Programmieren! 🚀😊
