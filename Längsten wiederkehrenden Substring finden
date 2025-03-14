@@ -1,0 +1,34 @@
+# 🔍 Längsten wiederkehrenden Substring finden
+
+## 🎯 Ziel
+Dein Ziel ist es, das **längste wiederkehrende Substring** in der Eingabe **(Groß-/Kleinschreibung ignorieren)** zu finden  
+und die **Kleinbuchstaben-Version** dieses Substrings zurückzugeben.
+
+Ein wiederkehrendes Substring kann sich teilweise mit anderen Vorkommen überschneiden.
+
+### Beispiel:
+```
+abbabba  →  abba
+```
+
+## 📥 Eingabe
+- **Zeile 1:** Eine Zeichenkette `text`.
+
+## 📤 Ausgabe
+- Die **kleingeschriebene Version** des längsten wiederkehrenden Substrings in `text`.
+- Falls **keine wiederkehrenden Substrings** existieren, soll `None` zurückgegeben werden.
+
+## ⚙️ Einschränkungen
+- `1 < Länge von text < 1024`
+
+## 📌 Beispiel
+
+### Eingabe:
+```
+The substring "string" exists twice
+```
+
+### Ausgabe:
+```
+string
+```
