@@ -20,7 +20,7 @@ Die Zahl `123` ist eine Tall Number, weil:
 - Eine einzelne Zeile mit `true` oder `false`.
 
 ## ⚙️ Einschränkungen
-- `0 < n < 10 000 000`
+- `0 < n < 10'000'000`
 
 ## 📌 Beispiel
 
