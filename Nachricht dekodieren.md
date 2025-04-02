@@ -17,8 +17,8 @@ CiaondecA  (9 Zeichen)
 #### 2️⃣ Teile sie in gleiche Zeilen und Spalten auf (hier: **3 Zeilen, 3 Spalten**):
 ```
 cia
-ond
-ecA
+onm
+dGe
 ```
 
 #### 3️⃣ Lies die Zeichen **spaltenweise** von oben nach unten:
