@@ -48,7 +48,7 @@ Viel Erfolg beim Dekodieren! 🕵️‍♂️
 
 ### Eingabe:
 ```
-CiaondecA
+CiaonmdGe
 ```
 
 ### Ausgabe:
