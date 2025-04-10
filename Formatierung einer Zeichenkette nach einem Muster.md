@@ -34,14 +34,14 @@ Dein Programm soll die Zeichenkette so formatieren, dass sie dem angegebenen Mus
 ## ⚙️ Einschränkungen
 - `S` enthält **nur Buchstaben**.
 - `Länge von F < 250`
-- Die Anzahl der `x` und `X` in `F` ist immer gleich der Länge von `S`.
+- Die Anzahl der `x` und `X` in `F` ist immer gleich der Anzahl der Buchstaben in `S`.
 
 ## 📌 Beispiel
 
 ### 📝 Eingabe:
 ```
 sAmMyJr
-Xxxx, Xx.
+Xxxxx, Xx.
 ```
 
 ### ✅ Ausgabe:
