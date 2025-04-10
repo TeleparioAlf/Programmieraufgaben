@@ -8,7 +8,7 @@ Das Ziel ist es, das **mittlere Element** eines Arrays von Zeichenketten auszuge
 
 ### 🛠 Beispiel:
 - Für das Array **`I LOVE YOU`** soll die Ausgabe **`LOVE`** sein.
-- Für das Array **`1, 4, potato, 6`** soll die Ausgabe **`4potato`** sein.
+- Für das Array **`1 4 potato 6`** soll die Ausgabe **`4potato`** sein.
 
 ## 📥 Eingabe
 - **Zeile 1:** Eine Zeichenkette `S`, die eine Reihe von **Leerzeichen-getrennten Elementen** enthält  
