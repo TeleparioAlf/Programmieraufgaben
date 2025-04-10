@@ -27,7 +27,7 @@ A → E
 
 ### 📝 Eingabe:
 ```
-TUSPH
+TUSPOH
 STRONG
 ```
 
