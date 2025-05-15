@@ -25,4 +25,4 @@ geben wir die Anzahl direkt nach dem Symbol an:
 
 | 📝 Eingabe | ✅ Ausgabe |
 |------------|-----------|
-| up up right down left | ^2v< |
+| up up right down left | ^2>v< |
