@@ -1,4 +1,4 @@
-# 🔍 Mittleres Element aus einem Array von Zeichenketten finden
+# 🔍 Mittleres Wort in einem Satz finden
 
 ## 🎯 Ziel
 Das Ziel ist es, das **mittlere Element** eines Arrays von Zeichenketten auszugeben.
