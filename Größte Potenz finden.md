@@ -21,7 +21,7 @@ die größte Potenz von `2` ist, die `N` nicht überschreitet.
 - **Zeile 1:** Eine ganze Zahl `M`, die die größte Potenz von `P` darstellt.
 
 ## ⚙️ Einschränkungen
-- `0 < N ≤ 2<sup>31</sup> - 1`
+- 0 < N ≤ 2<sup>31</sup> - 1
 
 ## 📌 Beispiel
 
