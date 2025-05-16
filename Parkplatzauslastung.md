@@ -1,4 +1,4 @@
-# 🚗 Parkplatzüberwachung – Bezahlte Arbeitszeit berechnen
+# 🚗 Parkplatzauslastung
 
 ## 🎯 Ziel
 In einem Parkplatz kommen und gehen Autos zu verschiedenen Zeiten.  
