@@ -1,4 +1,4 @@
-# 🚗 Spurwechsel prüfen
+# 🚗 Spurwechsel prüfen (~ 8 Min.)
 
 ## 🎯 Ziel
 
