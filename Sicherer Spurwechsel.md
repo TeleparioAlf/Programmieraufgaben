@@ -1,7 +1,7 @@
 # 🚗 Spurwechsel-Sicherheitsprüfung
 
 ## 🎯 Ziel  
-Es gibt ein Auto auf der *linken* Spur, das in die rechte Spur wechseln muss.  
+Es gibt ein Auto auf der **linken** Spur, das in die rechte Spur wechseln muss.  
 Der Spurwechsel ist **nicht sicher**, wenn eine der folgenden Bedingungen erfüllt ist:
 
 1. 🚗 Es befindet sich ein anderes Auto direkt rechts daneben, das mit der **gleichen Geschwindigkeit** fährt.
