@@ -1,45 +1,54 @@
-# 🚗 Spurwechsel-Sicherheitsprüfung
+# 🚗 Spurwechsel prüfen
 
-## 🎯 Ziel  
-Es gibt ein Auto auf der **linken** Spur, das in die rechte Spur wechseln muss.  
-Der Spurwechsel ist **nicht sicher**, wenn eine der folgenden Bedingungen erfüllt ist:
+## 🎯 Ziel
 
-1. 🚗 Es befindet sich ein anderes Auto direkt rechts daneben, das mit der **gleichen Geschwindigkeit** fährt.
-2. 🚙 Ein Auto ist **vorne rechts** und fährt **langsamer**.
-3. 🚘 Ein Auto ist **hinten rechts** und fährt **schneller**.
+Ein Auto fährt auf der **linken Spur** und möchte auf die **rechte Spur** wechseln.
+Der Spurwechsel ist **unsicher**, wenn **eine** der folgenden Situationen zutrifft:
 
-## 🔡 Eingabe  
-Die Eingabe besteht aus **drei Zeilen** mit **zweistelligen Zeichenketten**, die die Position und Geschwindigkeit der Autos angeben. 
-Das eigene Auto befindet sich in der zweiten Zeile in der äußerst linken Spalte.
+1. 🚗 **Rechts direkt daneben** ist ein Auto mit **derselben Geschwindigkeit**
+2. 🚙 **Rechts vorne** ist ein Auto, das **langsamer** ist
+3. 🚘 **Rechts hinten** ist ein Auto, das **schneller** ist
 
-- `|` bedeutet, dass kein Auto vorhanden ist.
-- Eine **Zahl zwischen 1 und 9** gibt ein Auto mit dieser **Geschwindigkeit** an.
-- Der Verkehr **bewegt sich nach oben**:
-  - Die **oberste Zeile** zeigt den vordersten Teil des Verkehrs.
-  - Die **unterste Zeile** zeigt das hinterste Auto.
+## 🔡 Eingabe
 
-### Beispiel  
+Die Eingabe besteht aus **drei Zeilen**. Jede Zeile hat **zwei Zeichen**:
+
+* Das **erste Zeichen** ist die **linke Spur**
+* Das **zweite Zeichen** ist die **rechte Spur**
+* Dein eigenes Auto steht **in der mittleren Zeile, linke Spur**
+
+Jedes Zeichen bedeutet:
+
+* `|` → kein Auto
+* Ziffer `1` bis `9` → ein Auto mit dieser Geschwindigkeit
+
+Der Verkehr fährt **von unten nach oben**, d.h. die Autos oben sind weiter vorne.
+
+### 🧾 Beispiel-Eingabe:
+
 ```
 |3
 2|
 |1
 ```
 
-## 🔢 Ausgabe  
-- **`true`** ✅ → Der Spurwechsel ist sicher.  
-- **`false`** ❌ → Der Spurwechsel ist nicht sicher.
+## 📤 Ausgabe
 
-## 🔒 Einschränkungen  
-- Die Geschwindigkeit eines Autos liegt zwischen **1 ≤ speed ≤ 9**.
+Gib `true` aus, wenn der Spurwechsel **sicher** ist.
+Gib `false` aus, wenn der Spurwechsel **unsicher** ist.
 
-## 📌 Beispiel  
-### Eingabe  
+## 📌 Beispiel
+
+### Eingabe:
+
 ```
 ||
 1|
 ||
 ```
-### Ausgabe  
+
+### Ausgabe:
+
 ```
 true ✅
 ```
