@@ -1,4 +1,4 @@
-# 🧦 Verschwundene Socken beim Waschen finden
+# 🧦 Verschwundene Socken beim Waschen finden (~ 20 Min.)
 
 ## 🎯 Ziel
 Manchmal verschwinden Socken in der Waschmaschine!  
