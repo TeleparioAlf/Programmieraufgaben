@@ -9,7 +9,8 @@ Der Spurwechsel ist **nicht sicher**, wenn eine der folgenden Bedingungen erfül
 3. 🚘 Ein Auto ist **hinten rechts** und fährt **schneller**.
 
 ## 🔡 Eingabe  
-Die Eingabe besteht aus **drei Zeilen** mit **zweistelligen Zeichenketten**, die die Position und Geschwindigkeit der Autos angeben:
+Die Eingabe besteht aus **drei Zeilen** mit **zweistelligen Zeichenketten**, die die Position und Geschwindigkeit der Autos angeben. 
+Das eigene Auto befindet sich in der zweiten Zeile in der äußerst linken Spalte.
 
 - `|` bedeutet, dass kein Auto vorhanden ist.
 - Eine **Zahl zwischen 1 und 9** gibt ein Auto mit dieser **Geschwindigkeit** an.
