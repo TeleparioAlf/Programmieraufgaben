@@ -16,9 +16,9 @@ Beispiel:
 - Eine Zeichenkette, in der die **Zahlen sortiert** und durch `+` getrennt sind.
 
 ## ⚙️ Einschränkungen
-- `sum` enthält **nur Ziffern (`0-9`)** und das `+`-Zeichen.
+- `sum` enthält **nur die Ziffern (`0-9`)** und das `+`-Zeichen.
 - Keine Zahl in `sum` ist negativ.
-- Jede Zahl in `sum` ist **einzeln** (kein mehrstelliger Wert).
+- Jede Zahl in `sum` ist **einstellig** (kein mehrstelliger Wert).
 - `sum` ist höchstens **100 Zeichen** lang.
 
 ## 📌 Beispiel
