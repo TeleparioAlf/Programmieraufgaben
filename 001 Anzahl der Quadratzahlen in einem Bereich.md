@@ -1,4 +1,4 @@
-# 📏 Anzahl der Quadratzahlen in einem Bereich
+# 📏 001 Anzahl der Quadratzahlen in einem Bereich
 
 ## 🎯 Ziel
 Gegeben sind zwei Zahlen, **A** und **B**.  
