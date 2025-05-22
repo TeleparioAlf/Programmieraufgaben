@@ -1,4 +1,4 @@
-# 🔢 Bereichssummen in einem Array berechnen (~ 8 Min.)
+# 🔢 005 Bereichssummen in einem Array berechnen (~ 8 Min.)
 
 ## 🎯 Ziel
 Du erhältst ein Array mit `N` ganzen Zahlen und eine Liste von `M` **inklusiven** Bereichen `[a, b]`.  
