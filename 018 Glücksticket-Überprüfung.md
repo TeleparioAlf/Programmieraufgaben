@@ -1,4 +1,4 @@
-# 🎟️ Glücksticket-Überprüfung
+# 🎟️ 018 Glücksticket-Überprüfung
 
 ## 🎯 Ziel
 Ein Ticket hat eine **6-stellige Nummer** im Bereich von `000000` bis `999999`.  
