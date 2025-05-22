@@ -1,4 +1,4 @@
-# 🌊 Digitale Flüsse
+# 🌊 011 Digitale Flüsse
 
 Ein **digitaler Fluss** ist eine Zahlenfolge, bei der jede Zahl von der Summe ihrer Ziffern ergänzt wird.  
 Die nächste Zahl im Fluss ergibt sich also durch:
