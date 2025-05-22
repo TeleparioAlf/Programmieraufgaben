@@ -1,4 +1,4 @@
-# 🔍 Überprüfung eines Benutzernamens
+# 🔍 051 Überprüfung eines Benutzernamens
 
 ## 🎯 Ziel
 Dein Programm soll prüfen, ob ein gegebener **Benutzername** `U` **gültig** ist.  
