@@ -1,4 +1,4 @@
-# 🔢 Die mittlere Zahl aus einem Tripel finden
+# 🔢 010 Die mittlere Zahl aus einem Tripel finden
 
 ## 🎯 Ziel
 Für jede Zeile mit **drei Zahlen** musst du die **Zahl mit dem mittleren Wert** ermitteln.  
