@@ -1,4 +1,4 @@
-# 🔠 Run-Length Encoding eines `N × N` Gitters
+# 🔠 030 Run-Length Encoding eines `N × N` Gitters
 
 ## 🎯 Ziel
 Dein Programm soll ein **`N × N`-Gitter**, das nur die Zeichen `A`, `B` oder `C` enthält,  
