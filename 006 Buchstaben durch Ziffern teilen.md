@@ -1,4 +1,4 @@
-# 🔢 Buchstaben durch Ziffern teilen (~ 10 Min.)
+# 🔢 006 Buchstaben durch Ziffern teilen (~ 10 Min.)
 
 ## 🎯 Ziel
 Gegeben ist eine Zeichenkette `input`.  
