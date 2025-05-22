@@ -1,4 +1,4 @@
-# 🏗️ Hohles Quadrat aus `#`-Symbolen
+# 🏗️ 022 Hohles Quadrat aus `#`-Symbolen
 
 ## 🎯 Ziel
 Dein Programm soll ein **hohles Quadrat** mit Seitenlänge `N` erzeugen, das aus dem `#`-Symbol besteht.
