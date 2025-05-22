@@ -1,4 +1,4 @@
-# 👏 Clap@7 – Ein Zählspiel mit Klatschen
+# 👏 007 Clap@7 – Ein Zählspiel mit Klatschen
 
 ## 🎯 Ziel
 Clap@7 ist ein Spiel, das von einer Gruppe von Personen gespielt wird.  
