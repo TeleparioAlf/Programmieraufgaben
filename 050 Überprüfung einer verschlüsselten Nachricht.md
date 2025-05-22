@@ -1,4 +1,4 @@
-# 🔐 Überprüfung einer verschlüsselten Nachricht
+# 🔐 050 Überprüfung einer verschlüsselten Nachricht
 
 ## 🎯 Ziel
 Du musst bestimmen, ob das erste Wort eine **verschlüsselte Version** des zweiten Wortes ist.  
