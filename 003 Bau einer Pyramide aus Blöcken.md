@@ -1,4 +1,4 @@
-# 🏗️ Bau einer Pyramide aus Blöcken
+# 🏗️ 003 Bau einer Pyramide aus Blöcken
 
 ## 🎯 Ziel
 Gegeben ist eine Anzahl `N` von Blöcken.  
