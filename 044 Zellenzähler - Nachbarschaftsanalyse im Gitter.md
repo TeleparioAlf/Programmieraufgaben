@@ -1,4 +1,4 @@
-# 🧮 Zellenzähler – Nachbarschaftsanalyse im Gitter (~ 20 Min.)
+# 🧮 044 Zellenzähler – Nachbarschaftsanalyse im Gitter (~ 10 Min.)
 
 ## 📋 **Aufgabenstellung**
 
