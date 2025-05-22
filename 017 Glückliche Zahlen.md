@@ -1,4 +1,4 @@
-# 😊 Glückliche Zahlen
+# 😊017 Glückliche Zahlen
 
 ## 🎯 Ziel
 Eine **glückliche Zahl** ist definiert als eine Zahl, bei der die **Summe der Quadrate ihrer Ziffern**, wiederholt berechnet, letztendlich **1** ergibt. Wenn dieser Prozess in einer Schleife endet, die **nicht 1** enthält, wird die Zahl als **unglücklich** bezeichnet.
