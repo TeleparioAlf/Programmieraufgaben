@@ -1,4 +1,4 @@
-# 🔠 Pangramm-Prüfung
+# 🔠 026 Pangramm-Prüfung
 
 ## 🎯 Ziel
 Ein **Pangramm** ist ein Satz, der **jeden Buchstaben des Alphabets** (`a-z`) **mindestens einmal** enthält,  
