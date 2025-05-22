@@ -1,4 +1,4 @@
-# 🔠 Extrahiere Wörter von den Diagonalen eines Gitters
+# 🔠 012 Extrahiere Wörter von den Diagonalen eines Gitters
 
 ## 🎯 Ziel
 Gegeben ist ein **Textgitter** der Größe `N × N`.  
