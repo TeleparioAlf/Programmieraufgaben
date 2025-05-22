@@ -1,4 +1,4 @@
-# 🔍 Zählen eines Substrings in Wörtern
+# 🔍 047 Zählen eines Substrings in Wörtern
 
 ## 🎯 Ziel
 Deine Aufgabe ist es, zu zählen, **wie oft** der **Substring `S`** in **beliebigen Wörtern** der Zeichenkette `text` vorkommt,  
