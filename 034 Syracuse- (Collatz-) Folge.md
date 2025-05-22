@@ -1,4 +1,4 @@
-# 🔢 Syracuse- (Collatz-) Folge (~ 8 Min.)
+# 🔢 034 Syracuse- (Collatz-) Folge (~ 8 Min.)
 
 ## 📜 Beschreibung
 Die Syracuse- oder Collatz-Folge wird wie folgt definiert:  
