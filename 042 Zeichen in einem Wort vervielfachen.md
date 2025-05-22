@@ -1,4 +1,4 @@
-# 🔠 Zeichen in einem Wort vervielfachen
+# 🔠 042 Zeichen in einem Wort vervielfachen
 
 ## 🎯 Ziel
 Gegeben ist ein Wort aus **Kleinbuchstaben** (`a-z`).  
