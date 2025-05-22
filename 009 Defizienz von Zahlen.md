@@ -1,4 +1,4 @@
-# 🔢 Defizienz von Zahlen
+# 🔢 009 Defizienz von Zahlen
 
 ## 🎯 Ziel
 Eine **defiziente Zahl** ist eine Zahl, bei der die **Summe ihrer Teiler kleiner ist als das Doppelte der Zahl**.  
