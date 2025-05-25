@@ -30,5 +30,5 @@ Hello world.
 
 ### ✅ Ausgabe:
 ```
-He2o wor2d.
+He2o world.
 ```
