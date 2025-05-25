@@ -2,9 +2,9 @@
 
 ## 🎯 Ziel
 Gegeben ist ein **Gitter**, das aus **Punkten (`.`)** und **`X`-Zeichen** besteht.  
-Dein Programm soll ermitteln, **wie oft** das `X`-Zeichen ein **Plus-Muster (`+`)** im Gitter bildet.
+Dein Programm soll ermitteln, **wie oft** das `X`-Zeichen eine **Kreuzung** im Gitter bildet.
 
-Ein **Plus-Muster** besteht aus genau **5** `X`-Zeichen in folgender Anordnung:
+Eine **Kreuzung** besteht aus genau **5** `X`-Zeichen in folgender Anordnung:
 
 ```
  X
