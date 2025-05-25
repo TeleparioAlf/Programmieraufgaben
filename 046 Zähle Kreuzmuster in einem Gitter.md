@@ -1,4 +1,4 @@
-# ➕ 046 Zähle Kreuzmuster in einem Gitter
+# ➕ 046 Zähle Kreuzungen
 
 ## 🎯 Ziel
 Gegeben ist ein **Gitter**, das aus **Punkten (`.`)** und **`X`-Zeichen** besteht.  
