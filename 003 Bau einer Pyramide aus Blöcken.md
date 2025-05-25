@@ -15,6 +15,23 @@ sowie die Anzahl der **verbleibenden ungenutzten Blöcke** ausgeben.
 - Falls `N` nicht ausreicht, um eine vollständige Pyramide zu bilden,  
   verbleiben `R` ungenutzte Blöcke.
 
+# Pyramide aus 8 Blöcken in ASCII-Art
+
+Die folgende Darstellung zeigt, wie aus 8 Blöcken eine Pyramide der Höhe 3 entsteht, mit 2 verbleibenden Blöcken:
+
+```plaintext
+               8 blocks
+
+    [ ][ ][ ]   [ ][ ]       →       Pyramide Höhe 3         +  2 restliche Blöcke
+    [ ][ ][ ]                  [ ][ ] [ ] [ ] [ ]
+    [ ][ ]                    [ ][ ][ ]
+
+    Gesamt:                    [ ]
+                              [ ][ ]
+                              [ ][ ][ ]    +  [ ][ ]
+```
+
+
 ## 📥 Eingabe
 - **Zeile 1:** Eine ganze Zahl `N`, die die Anzahl der verfügbaren Blöcke angibt.
 
