@@ -45,5 +45,3 @@ Das Volumen, das für den Schaum frei bleibt (Fließkommazahl)
 ```
 198
 ```
-
-Möchtest du, dass ich daraus gleich eine kompakte **JavaScript-Lösung** schreibe (passend für CodinGame)?
