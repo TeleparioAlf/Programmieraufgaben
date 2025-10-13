@@ -43,5 +43,5 @@ Das Volumen, das für den Schaum frei bleibt (Fließkommazahl)
 **Ausgabe**
 
 ```
-198
+192
 ```
