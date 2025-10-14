@@ -86,4 +86,3 @@ Kannst du die Aufgabe **lösen, ohne die Zahl in einen String umzuwandeln**?
 
 ## 🧠 Tipp  
 Versuche, die **zweite Hälfte** der Zahl umzukehren und mit der **ersten Hälfte** zu vergleichen.
-```
