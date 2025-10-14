@@ -15,7 +15,7 @@ Zahlen mit einer Endnull (außer 0 selbst) sind ebenfalls **keine** Palindrome �
 
 ## 📥 Eingabe  
 Eine ganze Zahl `x`  
-\(-2^{31} \le x \le 2^{31} - 1\)
+-2<sup>31</sup> <= x <= 2<sup>31</sup> - 1
 
 ## 📤 Ausgabe  
 - Gib `true` aus, wenn die Zahl ein Palindrom ist.  
