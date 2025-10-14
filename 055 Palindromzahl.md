@@ -1,4 +1,4 @@
-# 🔢 Palindrom-Zahl
+# 🔢 055 Palindrom-Zahl
 
 ## 🎯 Ziel  
 Schreibe ein Programm, das überprüft, ob eine gegebene ganze Zahl **x** ein **Palindrom** ist.  
