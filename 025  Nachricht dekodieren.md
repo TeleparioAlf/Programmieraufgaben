@@ -11,7 +11,7 @@ Deine Aufgabe ist es, eine **verschlüsselte Nachricht zu dekodieren**, indem du
 
 #### 1️⃣ Gegeben eine Zeichenkette:
 ```
-CiaondecA  (9 Zeichen)
+CiaonmdGe  (9 Zeichen)
 ```
 
 #### 2️⃣ Teile sie in gleiche Zeilen und Spalten auf (hier: **3 Zeilen, 3 Spalten**):
